@@ -1,0 +1,29 @@
+Aqui deixarei os links dos projetos criados nessa imersão de 5 dias :
+
+Dia 1: Passos iniciais Java Script
+
+https://codepen.io/Felipe-Chaves-Quaresma/pen/ogNQZXg
+
+=====================================================
+
+Dia 2: Jogo Pedra Papel Tesoura
+
+https://codepen.io/Felipe-Chaves-Quaresma/pen/YPzdrXV
+
+=====================================================
+
+Dia 3: Jogo criado baseado na serie round6 - Episodio quebra dos vidros.
+
+https://codepen.io/Felipe-Chaves-Quaresma/pen/MYWLjzq
+
+=====================================================
+
+Dia 4: Jogo contra computador - Personagens
+
+https://codepen.io/Felipe-Chaves-Quaresma/pen/MYWLjzq
+
+=====================================================
+
+Dia 5: Questionario + JSon
+
+https://codepen.io/Felipe-Chaves-Quaresma/pen/azbMPaR
