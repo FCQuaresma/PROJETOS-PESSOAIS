@@ -4,7 +4,6 @@ raiz = Tk()
 
 e = Entry(raiz, width=50)
 e.pack()
-e.insert(0, "Digite seu nome aqui: ")
 
 def meuClique():
     ola = "olá " + e.get()
